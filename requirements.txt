@@ -1,2 +1,4 @@
+py -m venv django_rest
+django_rest\Scripts\activate
 pip install django
 pip install djangorestframework
